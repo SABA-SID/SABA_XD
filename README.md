@@ -1,7 +1,7 @@
 # SABA_XD
-git clone https://github.com/SABA-SID/S-4.
+git clone https://github.com/SABA-SID/Ass.
 git
-cd S-4
+cd Ass
 git pull
 python Ass.py
 
